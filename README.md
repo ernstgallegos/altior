@@ -79,7 +79,7 @@ Creado por **Ernesto Gallegos**.
 Más sobre el autor:
 - [github.com/ernstgallegos](https://github.com/ernstgallegos)
 - [linktr.ee/ernstgallegos](https://linktr.ee/ernstgallegos)
-- [Newsletter: Quiero Creer](https://quierocreer.substack.com)
+- [Newsletter "quiero creer" en Substack](https://quierocreer.substack.com)
 
 ---
 
