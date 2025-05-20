@@ -8,12 +8,12 @@ Este repositorio contiene el diseño, lógica funcional y casos de uso de ALTIOR
 
 ## ¿Qué hace ALTIOR?
 
-- Redacta fichas de proyectos y propuestas estratégicas.
-- Resume y estructura informes ejecutivos.
-- Sugiere y mejora posteos para LinkedIn con identidad crítica.
-- Clasifica ideas, destaca conceptos clave, y propone estructuras narrativas.
-- Evalúa impacto potencial de iniciativas tecnológicas o sociales.
-- Se integra a flujos con Notion, Zapier, Airtable o APIs.
+- Redacta [fichas de proyectos](./prompts/altior-proyectos.md) y propuestas estratégicas.
+- Resume y estructura [informes ejecutivos](./prompts/altior-informes.md).
+- Sugiere y mejora [posteos para LinkedIn](./prompts/altior-linkedin.md) con identidad crítica.
+- [Clasifica ideas](./prompts/altior-clasificador-tematico.md), destaca conceptos clave, y propone estructuras narrativas.
+- [Evalúa impacto](./prompts/altior-evaluador-impacto.md) potencial de iniciativas tecnológicas o sociales.
+- Se integra a flujos con Notion, Zapier, Airtable o APIs ([ver ejemplo](./flujo-api/ejemplo-integracion-zapier.md)).
 
 ---
 
@@ -53,7 +53,7 @@ altior/
 │   ├── ejemplo-integracion-zapier.md
 │   └── payload-api-openai.md
 └── docs/
-    └── altior-gpt.md
+    ├── altior-gpt.md
     └── roadmap.md
 ```
 
@@ -63,10 +63,10 @@ altior/
 
 Podés interactuar con ALTIOR:
 
-- Desde el repositorio (copiando y adaptando prompts)
-- A través de herramientas como Notion + Zapier + OpenAI
-- Integrando la lógica a tus flujos de redacción o análisis
-- Como base para un producto o servicio propio
+- Desde este repositorio (copiando y adaptando [prompts funcionales](./prompts/altior-agente-base.md))
+- A través de herramientas como Notion + Zapier + OpenAI ([ver integración](./flujo-api/ejemplo-integracion-zapier.md))
+- Integrando la lógica a tus flujos de redacción o análisis con la [API de OpenAI](./flujo-api/payload-api-openai.md)
+- Como base para un [GPT personalizado público](./docs/altior-gpt.md)
 
 ---
 
