@@ -63,6 +63,8 @@ altior/
 
 Podés interactuar con ALTIOR:
 
+- A través de su versión pública en OpenAI: 👉 [Interactuar con ALTIOR.GPT](https://chatgpt.com/g/g-682cad9af29c8191be7c69ccb8fa5d57-altior)
+
 - Desde este repositorio (copiando y adaptando [prompts funcionales](./prompts/altior-agente-base.md))
 - A través de herramientas como Notion + Zapier + OpenAI ([ver integración](./flujo-api/ejemplo-integracion-zapier.md))
 - Integrando la lógica a tus flujos de redacción o análisis con la [API de OpenAI](./flujo-api/payload-api-openai.md)
