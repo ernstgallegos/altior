@@ -53,6 +53,7 @@ altior/
 │   ├── ejemplo-integracion-zapier.md
 │   └── payload-api-openai.md
 └── docs/
+    └── altior-gpt.md
     └── roadmap.md
 ```
 
