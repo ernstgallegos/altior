@@ -12,6 +12,7 @@ Este repositorio contiene el diseño, lógica funcional y casos de uso de ALTIOR
 - Resume y estructura informes ejecutivos.
 - Sugiere y mejora posteos para LinkedIn con identidad crítica.
 - Clasifica ideas, destaca conceptos clave, y propone estructuras narrativas.
+- Evalúa impacto potencial de iniciativas tecnológicas o sociales.
 - Se integra a flujos con Notion, Zapier, Airtable o APIs.
 
 ---
@@ -33,11 +34,26 @@ Profesionales de 30 a 55 años con formación en ciencia, tecnología, innovaci�
 ```
 altior/
 ├── README.md
-├── prompts/              # Prompts base, versiones refinadas, variantes
-├── casos/                # Aplicaciones simuladas o reales documentadas
-├── templates/            # Plantillas estructuradas para inputs de usuario
-├── flujo-api/            # Instrucciones de integración técnica (Zapier/API)
-└── docs/                 # Expansiones, guías de uso y roadmap
+├── prompts/
+│   ├── altior-agente-base.md
+│   ├── altior-proyectos.md
+│   ├── altior-informes.md
+│   ├── altior-linkedin.md
+│   ├── altior-clasificador-tematico.md
+│   └── altior-evaluador-impacto.md
+├── casos/
+│   ├── caso-ficha-pyme-social.md
+│   ├── informe-productividad.md
+│   └── linkedin-sobre-el-tiempo.md
+├── templates/
+│   ├── ficha-proyecto.md
+│   ├── informe-base.md
+│   └── encabezado-posteo.md
+├── flujo-api/
+│   ├── ejemplo-integracion-zapier.md
+│   └── payload-api-openai.md
+└── docs/
+    └── roadmap.md
 ```
 
 ---
@@ -55,7 +71,7 @@ Podés interactuar con ALTIOR:
 
 ## Autor
 
-Creado por **Ernesto Gallegos**.
+Creado por **Ernesto Gallegos**, como proyecto final del Curso Intensivo de Prompt Engineering Aplicado.
 
 Más sobre el autor:
 - [github.com/ernstgallegos](https://github.com/ernstgallegos)
