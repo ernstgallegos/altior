@@ -74,7 +74,7 @@ Podés interactuar con ALTIOR:
 
 ## Autor
 
-Creado por **Ernesto Gallegos**, como proyecto final del Curso Intensivo de Prompt Engineering Aplicado.
+Creado por **Ernesto Gallegos**.
 
 Más sobre el autor:
 - [github.com/ernstgallegos](https://github.com/ernstgallegos)
